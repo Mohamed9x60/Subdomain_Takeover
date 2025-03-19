@@ -1,6 +1,6 @@
 
 
-# NetVuln - Advanced Security Vulnerability Scanner   
+# Subdomain Takeover - Advanced Security Vulnerability Scanner   
 
 NetVuln is a powerful security scanning tool designed to detect web and network vulnerabilities.  
 It presents results in a professional format with color-coded risk levels.  
@@ -49,17 +49,22 @@ cd NetVuln
 
 pip install -r requirements.txt
 
-python netvuln.py
+python SubdomainTakeover.py
 ```
 
 ### ✅ **On Linux**  
 ```bash
 sudo apt update && sudo apt upgrade -y
+
 sudo apt install python3 python3-pip git -y
+
 git clone https://github.com/Mohamed9x60/Subdomain_Takeover.git
+
 cd NetVuln
+
 pip3 install -r requirements.txt
-python3 netvuln.py
+
+python3 SubdomainTakeover.py
 ```
 
 ---
