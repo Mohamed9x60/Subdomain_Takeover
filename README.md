@@ -13,7 +13,7 @@ Developed by **Mohamed Fouad**.
 ✔️ Comprehensive web vulnerability scanning  
 ✔️ Supports multiple protocols (HTTP, FTP, SSH)  
 ✔️ Displays vulnerabilities with detailed fix recommendations  
-✔️ Generates reports in multiple formats (PDF, TXT, CSV, HTML, XML)  
+✔️ Generates reports in multiple formats.  
 ✔️ Customizable scan settings  
 ✔️ Integration with other tools for deeper analysis  
 
@@ -22,7 +22,7 @@ Developed by **Mohamed Fouad**.
 ## 🛠️ **Detected Vulnerabilities**  
 
 🔹 **Web Vulnerabilities**:  
-- **SQL Injection** (SQLi)  
+- **SQL Injection (SQLi)**  
 - **Cross-Site Scripting (XSS)**  
 - **Cross-Site Request Forgery (CSRF)**  
 - **Local & Remote File Inclusion (LFI/RFI)**  
@@ -41,30 +41,40 @@ Developed by **Mohamed Fouad**.
 ###  **On Termux (Android)**  
 ```bash
 pkg update && pkg upgrade -y
-
-pkg install python git -y
-
+```
+```bash
+pkg install python3 git -y
+```
+```bash
 git clone https://github.com/Mohamed9x60/Subdomain_Takeover.git
-
-cd NetVuln
-
+```
+```bash
+cd Subdomain_Takeover
+```
+```bash
 pip install -r requirements.txt
-
-python SubdomainTakeover.py
+```
+```bash
+python3 SubdomainTakeover.py
 ```
 
 ### ✅ **On Linux**  
 ```bash
 sudo apt update && sudo apt upgrade -y
-
+```
+```bash
 sudo apt install python3 python3-pip git -y
-
+```
+```bash
 git clone https://github.com/Mohamed9x60/Subdomain_Takeover.git
-
-cd NetVuln
-
+```
+```bash
+cd Subdomain_Takeover
+```
+```bash
 pip3 install -r requirements.txt
-
+```
+```bash
 python3 SubdomainTakeover.py
 ```
 
