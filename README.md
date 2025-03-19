@@ -41,7 +41,7 @@ Developed by **Mohamed Fouad**.
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/yourusername/NetVuln.git
+git clone https://github.com/Mohamed9x60/Subdomain_Takeover.git
 cd NetVuln
 pip install -r requirements.txt
 python netvuln.py
@@ -51,7 +51,7 @@ python netvuln.py
 ```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/yourusername/NetVuln.git
+git clone https://github.com/Mohamed9x60/Subdomain_Takeover.git
 cd NetVuln
 pip3 install -r requirements.txt
 python3 netvuln.py
@@ -66,14 +66,9 @@ NetVuln is developed for **educational purposes and security testing of your own
 ---
 
 ## 🔗 **Connect with Me**  
-📌 GitHub: [yourgithub](https://github.com/Mohamed9x60) 
+📌 GitHub: [github](https://github.com/Mohamed9x60) 
 ---
 
- **Developer : ** Mohamed Fouad  
+ **Developer**:**Mohamed Fouad**  
 🇵🇸 **Palestine is Free**  
 ```
-
-### **Notes:**  
-- Replace **`yourusername`** with your GitHub username.  
-- Add real **screenshots** of your tool in the `screenshots/` folder.  
-- Adjust the **contact links** based on your actual profiles.  
