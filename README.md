@@ -82,7 +82,7 @@ python3 SubdomainTakeover.py
 
 ## 📜 **Legal Disclaimer**  
 ❗ **Unauthorized use of this tool is strictly the responsibility of the user.**  
-NetVuln is developed for **educational purposes and security testing of your own systems only**.  
+Subdomain Takeover is developed for **educational purposes and security testing of your own systems only**.  
 
 ---
 
