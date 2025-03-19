@@ -1,6 +1,6 @@
 
 
-# NetVuln - Advanced Security Vulnerability Scanner 🔥  
+# NetVuln - Advanced Security Vulnerability Scanner   
 
 NetVuln is a powerful security scanning tool designed to detect web and network vulnerabilities.  
 It presents results in a professional format with color-coded risk levels.  
@@ -8,7 +8,7 @@ Developed by **Mohamed Fouad**.
 
 ---
 
-## 🚀 **Features**  
+##  **Features**  
 ✔️ Comprehensive web vulnerability scanning  
 ✔️ Supports multiple protocols (HTTP, FTP, SSH)  
 ✔️ Displays vulnerabilities with detailed fix recommendations  
@@ -37,13 +37,18 @@ Developed by **Mohamed Fouad**.
 
 ##  **Installation & Usage**  
 
-### ✅ **On Termux (Android)**  
+###  **On Termux (Android)**  
 ```bash
 pkg update && pkg upgrade -y
+
 pkg install python git -y
+
 git clone https://github.com/Mohamed9x60/Subdomain_Takeover.git
+
 cd NetVuln
+
 pip install -r requirements.txt
+
 python netvuln.py
 ```
 
@@ -67,8 +72,9 @@ NetVuln is developed for **educational purposes and security testing of your own
 
 ## 🔗 **Connect with Me**  
 📌 GitHub: [github](https://github.com/Mohamed9x60) 
+📌 Facebook: [FACEBOOK](https://www.facebook.com/share/15Q7Up6Atz/)
 ---
 
  **Developer**:**Mohamed Fouad**  
 🇵🇸 **Palestine is Free**  
-```
+
