@@ -2,8 +2,9 @@
 
 # Subdomain Takeover - Advanced Security Vulnerability Scanner   
 
-NetVuln is a powerful security scanning tool designed to detect web and network vulnerabilities.  
-It presents results in a professional format with color-coded risk levels.  
+Subdomain Takeover is a powerful security scanning tool designed to detect web and network vulnerabilities.
+
+It presents results in a professional format with risk levels.  
 Developed by **Mohamed Fouad**.  
 
 ---
